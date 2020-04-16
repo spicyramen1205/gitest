@@ -6,5 +6,4 @@
 
 ---
 
-* [我的學號與名稱](https://github.com/devinliang/gitest/)
-* 
+* [1107211107林呈諭](https://github.com/spicyramen1205/test/blob/master/README.md)
